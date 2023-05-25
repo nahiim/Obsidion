@@ -38,28 +38,3 @@ For questions or comments about the project, please [email](mailto::yynahim@gmai
 ![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/heightmapped_terrain.gif?raw=true)
 ![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/gles.gif?raw=true)
 ![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/vk.gif?raw=true) -->
-
-
-## Contribution:
-We welcome contributions from the community and encourage bug reports, feature requests, and pull requests.
-
-
-## Contact Information:
-For questions or comments about the project, please [email](mailto::yynahim@gmail.com) us.
-
-
-
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/tangent_test.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/board.gif?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/spider.gif?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/scene.gif?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/ninja.gif?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/wolf.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/heightmapped_terrain.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/control.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/camera.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/Cam.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/suzane.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/TPCamera.gif?raw=true) -->
-<!-- ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.gif?raw=true) -->
