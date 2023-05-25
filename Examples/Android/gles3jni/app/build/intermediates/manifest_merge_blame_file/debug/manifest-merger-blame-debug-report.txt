@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2013 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.android.gles3jni" >
+19
+20    <uses-sdk
+21        android:minSdkVersion="24"
+21-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml
+22        android:targetSdkVersion="33" />
+22-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml
+23
+24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+24-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:18:3-79
+24-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:18:20-76
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:19:3-78
+25-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:19:20-75
+26
+27    <uses-feature android:glEsVersion="0x00030000" />
+27-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:21:3-51
+27-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:21:17-49
+28
+29    <application
+29-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:22:3-37:17
+30        android:allowBackup="false"
+30-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:23:7-34
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:fullBackupContent="false"
+33-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:24:7-40
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:25:7-41
+35        android:label="@string/gles3jni_activity"
+35-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:26:7-48
+36        android:testOnly="true" >
+37        <activity
+37-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:27:5-36:16
+38            android:name="com.android.gles3jni.JNIActivity"
+38-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:27:15-41
+39            android:configChanges="orientation|keyboardHidden"
+39-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:30:15-65
+40            android:exported="true"
+40-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:31:9-32
+41            android:launchMode="singleTask"
+41-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:29:15-46
+42            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+42-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:28:15-73
+43            <intent-filter>
+43-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:32:7-35:23
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:33:9-61
+44-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:33:17-58
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:34:17-77
+46-->C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\src\main\AndroidManifest.xml:34:27-74
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>

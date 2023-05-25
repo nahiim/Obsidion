@@ -1,0 +1,7 @@
+#Sun May 21 22:51:16 WAT 2023
+base.1=C\:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.1=9/classes.dex
+base.0=C\:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

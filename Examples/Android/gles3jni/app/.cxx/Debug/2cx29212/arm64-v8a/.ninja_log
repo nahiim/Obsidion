@@ -1,0 +1,5 @@
+# ninja log v5
+7	639	705577413	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	440a2f5a125cc8e2
+13	641	705577413	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	d81a1d52391b9043
+1	895	705577413	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	391575568434381f
+895	1092	705577413	C:/Users/User/Desktop/gles3jni/app/build/intermediates/cxx/Debug/2cx29212/obj/arm64-v8a/libgles3jni.so	cf0b10c18d3ac32

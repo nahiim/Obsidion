@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\.cxx\\Debug\\3q2u2k4j\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\.cxx\\Debug\\3q2u2k4j\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gles3jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "gles3jni",
+      "abi": "x86_64",
+      "output": "C:\\Users\\User\\Desktop\\mine\\Obsidion\\Examples\\Android\\gles3jni\\app\\build\\intermediates\\cxx\\Debug\\3q2u2k4j\\obj\\x86_64\\libgles3jni.so",
+      "runtimeFiles": []
+    }
+  }
+}

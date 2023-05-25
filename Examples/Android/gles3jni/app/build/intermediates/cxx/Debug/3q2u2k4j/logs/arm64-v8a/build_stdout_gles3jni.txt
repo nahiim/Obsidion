@@ -1,0 +1,128 @@
+ninja: Entering directory `C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\.cxx\Debug\3q2u2k4j\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/gles3jni.dir/main.cpp.o
+[2/2] Linking CXX shared library C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\build\intermediates\cxx\Debug\3q2u2k4j\obj\arm64-v8a\libgles3jni.so
+FAILED: C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/build/intermediates/cxx/Debug/3q2u2k4j/obj/arm64-v8a/libgles3jni.so 
+cmd.exe /C "cd . && C:\Users\User\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -fPIC -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -fno-rtti -Wall -fno-limit-debug-info  -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -shared -Wl,-soname,libgles3jni.so -o C:\Users\User\Desktop\mine\Obsidion\Examples\Android\gles3jni\app\build\intermediates\cxx\Debug\3q2u2k4j\obj\arm64-v8a\libgles3jni.so CMakeFiles/gles3jni.dir/main.cpp.o CMakeFiles/gles3jni.dir/src/Application.cpp.o  -lGLESv3  -landroid  -lEGL  -llog  -lm  -latomic -lm && cd ."
+ld: error: duplicate symbol: stbi_failure_reason
+>>> defined at stb_image.h:0 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:0)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_failure_reason)
+>>> defined at stb_image.h:0 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:0)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_failure_reason+0x0)
+
+ld: error: duplicate symbol: stbi_image_free
+>>> defined at stb_image.h:541 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:541)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_image_free)
+>>> defined at stb_image.h:541 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:541)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_image_free+0x0)
+
+ld: error: duplicate symbol: stbi__fopen(char const*, char const*)
+>>> defined at stb_image.h:575 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:575)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi__fopen(char const*, char const*))
+>>> defined at stb_image.h:575 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:575)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text._Z11stbi__fopenPKcS0_+0x0)
+
+ld: error: duplicate symbol: stbi_load
+>>> defined at stb_image.h:588 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:588)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_load)
+>>> defined at stb_image.h:588 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:588)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_load+0x0)
+
+ld: error: duplicate symbol: stbi_load_from_file
+>>> defined at stb_image.h:598 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:598)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_load_from_file)
+>>> defined at stb_image.h:598 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:598)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_load_from_file+0x0)
+
+ld: error: duplicate symbol: stbi_load_from_memory
+>>> defined at stb_image.h:612 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:612)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_load_from_memory)
+>>> defined at stb_image.h:612 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:612)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_load_from_memory+0x0)
+
+ld: error: duplicate symbol: stbi_load_from_callbacks
+>>> defined at stb_image.h:619 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:619)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_load_from_callbacks)
+>>> defined at stb_image.h:619 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:619)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_load_from_callbacks+0x0)
+
+ld: error: duplicate symbol: stbi_loadf_main(stbi__context*, int*, int*, int*, int)
+>>> defined at stb_image.h:628 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:628)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_loadf_main(stbi__context*, int*, int*, int*, int))
+>>> defined at stb_image.h:628 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:628)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text._Z15stbi_loadf_mainP13stbi__contextPiS1_S1_i+0x0)
+
+ld: error: duplicate symbol: stbi_loadf_from_memory
+>>> defined at stb_image.h:641 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:641)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_loadf_from_memory)
+>>> defined at stb_image.h:641 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:641)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_loadf_from_memory+0x0)
+
+ld: error: duplicate symbol: stbi_loadf_from_callbacks
+>>> defined at stb_image.h:648 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:648)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_loadf_from_callbacks)
+>>> defined at stb_image.h:648 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:648)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_loadf_from_callbacks+0x0)
+
+ld: error: duplicate symbol: stbi_loadf
+>>> defined at stb_image.h:656 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:656)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_loadf)
+>>> defined at stb_image.h:656 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:656)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_loadf+0x0)
+
+ld: error: duplicate symbol: stbi_loadf_from_file
+>>> defined at stb_image.h:666 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:666)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_loadf_from_file)
+>>> defined at stb_image.h:666 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:666)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_loadf_from_file+0x0)
+
+ld: error: duplicate symbol: stbi_is_hdr_from_memory
+>>> defined at stb_image.h:680 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:680)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_is_hdr_from_memory)
+>>> defined at stb_image.h:680 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:680)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_is_hdr_from_memory+0x0)
+
+ld: error: duplicate symbol: stbi_is_hdr
+>>> defined at stb_image.h:694 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:694)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_is_hdr)
+>>> defined at stb_image.h:694 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:694)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_is_hdr+0x0)
+
+ld: error: duplicate symbol: stbi_is_hdr_from_file
+>>> defined at stb_image.h:705 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:705)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_is_hdr_from_file)
+>>> defined at stb_image.h:705 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:705)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_is_hdr_from_file+0x0)
+
+ld: error: duplicate symbol: stbi_is_hdr_from_callbacks
+>>> defined at stb_image.h:717 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:717)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_is_hdr_from_callbacks)
+>>> defined at stb_image.h:717 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:717)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_is_hdr_from_callbacks+0x0)
+
+ld: error: duplicate symbol: stbi_hdr_to_ldr_gamma
+>>> defined at stb_image.h:731 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:731)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_hdr_to_ldr_gamma)
+>>> defined at stb_image.h:731 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:731)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_hdr_to_ldr_gamma+0x0)
+
+ld: error: duplicate symbol: stbi_hdr_to_ldr_scale
+>>> defined at stb_image.h:732 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:732)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_hdr_to_ldr_scale)
+>>> defined at stb_image.h:732 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:732)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_hdr_to_ldr_scale+0x0)
+
+ld: error: duplicate symbol: stbi_ldr_to_hdr_gamma
+>>> defined at stb_image.h:734 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:734)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_ldr_to_hdr_gamma)
+>>> defined at stb_image.h:734 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:734)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_ldr_to_hdr_gamma+0x0)
+
+ld: error: duplicate symbol: stbi_ldr_to_hdr_scale
+>>> defined at stb_image.h:735 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:735)
+>>>            CMakeFiles/gles3jni.dir/main.cpp.o:(stbi_ldr_to_hdr_scale)
+>>> defined at stb_image.h:735 (C:/Users/User/Desktop/mine/Obsidion/Examples/Android/gles3jni/app/src/main/cpp/include/stb_image.h:735)
+>>>            CMakeFiles/gles3jni.dir/src/Application.cpp.o:(.text.stbi_ldr_to_hdr_scale+0x0)
+
+ld: error: too many errors emitted, stopping now (use -error-limit=0 to see all errors)
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.

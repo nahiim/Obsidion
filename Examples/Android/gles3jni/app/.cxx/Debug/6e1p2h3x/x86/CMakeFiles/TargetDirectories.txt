@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/incase/Obsidion/Examples/Android/gles3jni/app/.cxx/Debug/6e1p2h3x/x86/CMakeFiles/gles3jni.dir
+C:/Users/User/Desktop/incase/Obsidion/Examples/Android/gles3jni/app/.cxx/Debug/6e1p2h3x/x86/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/incase/Obsidion/Examples/Android/gles3jni/app/.cxx/Debug/6e1p2h3x/x86/CMakeFiles/rebuild_cache.dir
