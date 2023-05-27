@@ -29,4 +29,4 @@ $(BIN_NAME): $(OBJS)
 	$(CC) $(COMPILER_FLAGS) -c $< -o $@
 
 clean:
-	rm -f $(OBJS) $(BIN_NAME)
+	rm -f $(OBJS) # $(BIN_NAME)
