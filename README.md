@@ -6,15 +6,27 @@ Obsidion is a cross platform 3D game engine written in C++.
 Its main focus is on providing a lightweight, efficient, and flexible engine for game developers.
 Currently, it offers features such as GLTF and OBJ model loading, 2D sprite rendering, input system, android support, 3D perspective camera, 2D orthographic camera, font rendering, and more.
 
-
-The goal is to create a robust and performant game engine that offers features that are important to game developers, while also being lightweight and easy to use.
+The goal is to provide a cross platform framework for fast prototyping.
 
 ## Requirement:
-To use Obsidion on windows, you must have Visual Studio 2017 or more recent version.
+### Windows:
+ * Visual Studio 2017 or more recent version.
+ * OpenGL 3.3 or more recent.
+### Linux
+ * OpenGL 3.3 or a more recent version.
+ * Any decent IDE or Editor of choice.
 
 ## Installation and Usage:
-To create a game, simply clone the repository, duplicate a basic example and edit the project name in the Solution and Project files.
-There are examples and sample code to help developers get started with using the engine.
+
+To get started using Obsidion, first clone the github repo:
+```
+git clone https://github.com/xploor-games/Obsidion
+```
+
+### On Windows:
+Run `new_project.bat` and specify your project name. Your newly generated project can be found in `Projects` directory.
+### On Linux:
+Run `new_project.sh` and specify your project name. Your newly generated project can be found in `Projects` directory.
 
 ## Documentation:
 The [wiki](https://github.com/xploor-games/Obsidion/wiki) includes a detailed guide to the engine's architecture, code structure, and functionality.
@@ -26,7 +38,7 @@ We welcome contributions from the community and encourage bug reports, feature r
 
 
 ## Contact Information:
-For questions or comments about the project, please [email](mailto::yynahim@gmail.com) us.
+For questions or comments about the project, please [email](mailto:yynahim@gmail.com) us.
 
 
 
