@@ -1,14 +1,14 @@
 
 #pragma once
 
-#include <gl/glew.h> // holds all OpenGL type declarations
+#include <GL/glew.h> // holds all OpenGL type declarations
 
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 
-#include <obs/Shader.h>
-#include <obs/Vertex.h>
-#include <obs/Camera.h>
+#include <obs/shader.h>
+#include <obs/vertex.h>
+#include <obs/camera.h>
 
 #include <string>
 #include <vector>

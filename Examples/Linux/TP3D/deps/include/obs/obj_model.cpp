@@ -1,10 +1,11 @@
 
 #include "stb_image.h"
 
-#include "Vertex.h"
-#include "ObjModel.h"
+#include "vertex.h"
+#include "obj_model.h"
 #include "util.h"
 #include "debug_timer.h"
+
 #include <map>
 #include <algorithm>
 #include <fstream>

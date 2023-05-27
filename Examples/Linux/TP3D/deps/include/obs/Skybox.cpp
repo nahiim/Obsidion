@@ -1,7 +1,7 @@
 
 #include "stb_image.h"
 
-#include "Skybox.h"
+#include "skybox.h"
 
 
 // Default Constructor

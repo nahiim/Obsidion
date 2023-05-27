@@ -5,15 +5,15 @@
 
 #include "stb_image.h"
 
-#include <gl/glew.h> // holds all OpenGL type declarations
+#include <GL/glew.h> // holds all OpenGL type declarations
 
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtx/transform.hpp>
 #include <glm/gtc/constants.hpp>
 
-#include <obs/Shader.h>
-#include <obs/Light.h>
+#include <obs/shader.h>
+#include <obs/light.h>
 
 #include <string>
 #include <vector>

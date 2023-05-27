@@ -5,7 +5,7 @@
 
 #include <glm/glm.hpp>
 
-#include <obs/Shader.h>
+#include <obs/shader.h>
 
 #include <ft2build.h>
 #include FT_FREETYPE_H 

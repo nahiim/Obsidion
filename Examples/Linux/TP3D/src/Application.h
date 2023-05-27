@@ -8,11 +8,11 @@
 //  Engine Headers
 #include <obs/camera.h>
 #include <obs/orthographic_camera.h>
-#include <obs/geometry/PlaneGround.h>
-#include <obs/Skybox.h>
+#include <obs/geometry/plane_ground.h>
+#include <obs/skybox.h>
 #include <obs/light.h>
-#include <obs/ObjModel.h>
-#include <obs/gltfModel.h>
+#include <obs/obj_model.h>
+#include <obs/gltf_model.h>
 #include <obs/sprite.h>
 #include <obs/text.h>
 

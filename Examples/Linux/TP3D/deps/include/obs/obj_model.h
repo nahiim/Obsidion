@@ -17,11 +17,11 @@
 #include <string>
 #include <vector>
 
-#include "ObjLoader.h"
-#include "Vertex.h"
-#include "Shader.h"
-#include "Camera.h"
-#include "Light.h"
+#include "obj_loader.h"
+#include "vertex.h"
+#include "shader.h"
+#include "camera.h"
+#include "light.h"
 
 
 

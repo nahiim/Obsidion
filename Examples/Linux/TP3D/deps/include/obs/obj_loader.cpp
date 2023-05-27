@@ -1,5 +1,6 @@
 
-#include "ObjLoader.h"
+#include "obj_loader.h"
+
 #include <fstream>
 #include <iostream>
 #include <algorithm>

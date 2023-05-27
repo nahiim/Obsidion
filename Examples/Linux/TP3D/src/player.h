@@ -5,7 +5,7 @@
 
 
 #include <obs/input.h>
-#include <obs/ObjModel.h>
+#include <obs/obj_model.h>
 #include <obs/object.h>
 
 
