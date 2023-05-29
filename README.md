@@ -3,7 +3,7 @@
 
 ## Project Description:
 Obsidion is a cross platform 3D game engine written in C++.
-Its main focus is on providing a lightweight, efficient, and flexible engine for game developers.
+Its main focus is on providing a lightweight, efficient, and flexible framework for game developers.
 Currently, it is available on Windows and Linux, and deployable to android.
 
 Obsidion provides a cross platform API for fast prototyping of 2D/3D Games and simulations. It is a suitable framework for game makers who enjoy coding.
