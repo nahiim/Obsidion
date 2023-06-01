@@ -43,13 +43,9 @@ We welcome contributions from the community and encourage bug reports and featur
 ## Contact Information:
 For questions or comments about the project, please [email](mailto:yynahim@gmail.com) us.
 
+## SCREENSHOTS
+
+![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png)
+![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg)
 
 
-
-<!-- ![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/board.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/spider.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/cam.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/ninja.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/heightmapped_terrain.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/gles.gif?raw=true)
-![](https://raw.githubusercontent.com/xploor-games/Obsidion/master/Captures/vk.gif?raw=true) -->
