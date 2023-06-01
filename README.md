@@ -49,12 +49,12 @@ For questions or comments about the project, please [email](mailto:yynahim@gmail
 <img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg" alt="Alt Text" width="300">
 <!-- ![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png)
 ![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg) -->
-<table>
+<table style="border: none;">
   <tr>
-    <td style="width: 75%;">
+    <td style="width: 75%; border: none;">
       <img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png" alt="Image 1">
     </td>
-    <td style="width: 25%;">
+    <td style="width: 25%; border: none;">
       <img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg" alt="Image 2">
     </td>
   </tr>
