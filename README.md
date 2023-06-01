@@ -46,8 +46,8 @@ For questions or comments about the project, please [email](mailto:yynahim@gmail
 ## SCREENSHOTS
 
 <img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png" alt="Alt Text" width="300">
-<img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg.png" alt="Alt Text" width="300">
-![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png)
-![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg)
+<img src="https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg" alt="Alt Text" width="300">
+<!-- ![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/archer.png)
+![Game Screenshot](https://raw.githubusercontent.com/xploor-games/xploor-games.github.io/main/images/GLES3JNI.jpg) -->
 
 
