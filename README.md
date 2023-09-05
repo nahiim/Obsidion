@@ -48,10 +48,10 @@ For questions or comments about the project, please [email](mailto:yynahim@gmail
 <table style="border: none;">
   <tr>
     <td style="width: 75%; border: none;">
-      <img src="https://raw.githubusercontent.com/nahiim/nahiim.github.io/images/archer.png" alt="Image 1">
+      <img src="[https://raw.githubusercontent.com/nahiim/nahiim.github.io/images/archer.png](https://github.com/nahiim/nahiim.github.io/blob/main/images/archer.png?raw=true)" alt="Image 1">
     </td>
     <td style="width: 25%; border: none;">
-      <img src="https://raw.githubusercontent.com/nahiim/nahiim.github.io/images/GLES3JNI.jpg" alt="Image 2">
+      <img src="[https://raw.githubusercontent.com/nahiim/nahiim.github.io/images/GLES3JNI.jpg](https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true)https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true" alt="Image 2">
     </td>
   </tr>
 </table>
