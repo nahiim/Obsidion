@@ -46,12 +46,12 @@ For questions or comments about the project, please [email](mailto:yynahim@gmail
 ## SCREENSHOTS
 
 <table style="border: none;">
-  <tr>
-    <td style="width: 75%; border: none;">
-      <img src="https://raw.githubusercontent.com/nahiim/nahiim.github.io/main/images/archer.png" alt="Image 1">
-    </td>
+  <tr>    
     <td style="width: 25%; border: none;">
       <img src="https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true" alt="Image 2">
+    </td>
+    <td style="width: 75%; border: none;">
+      <img src="https://raw.githubusercontent.com/nahiim/nahiim.github.io/main/images/archer.png" alt="Image 1">
     </td>
   </tr>
 </table>
