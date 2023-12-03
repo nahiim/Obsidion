@@ -32,10 +32,6 @@ public:
     std::vector<glm::mat4> mesh_data;
     unsigned int mesh_count;
 
-    std::vector<std::vector<Vertex>> &vertices;
-    std::vector<std::vector<glm::mat4>> &mesh_data;
-    std::vector<unsigned int> &mesh_count;
-
 
 private:
 
