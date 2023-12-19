@@ -36,13 +36,6 @@ The [wiki](https://github.com/xploor-games/Obsidion/wiki) includes a detailed gu
 It provides information on how to use each feature of the engine, as well as best practices for game development using Obsidion.
 
 
-## Contribution:
-We welcome contributions from the community and encourage bug reports and feature requests.
-
-
-## Contact Information:
-For questions or comments about the project, please [email](mailto:yynahim@gmail.com) us.
-
 ## SCREENSHOTS
 
 <table style="border: none;">
